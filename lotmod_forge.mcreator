@@ -1,0 +1,91 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Nomine",
+      "type": "gamerule",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nomine",
+      "metadata": {
+        "type": "boolean"
+      }
+    },
+    {
+      "name": "Technology",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technology"
+    },
+    {
+      "name": "Guardiansofthegalaxy",
+      "type": "musicdisc",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "guardiansofthegalaxy"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "guardiansofthegalaxy",
+      "files": [
+        "guardians-of-the-galaxy-awesome-mix-vol.-1-_-vol.-2-_galaxy-soundtrack_-_128-kbps_"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "guardiansgalaxy",
+      "files": [
+        "guardians-of-the-galaxy-awesome-mix-vol.-1-_-vol.-2-_galaxy-soundtrack_-_128-kbps_"
+      ],
+      "category": "master",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "gamerule.nomine.description": "To pomoga nie kopac",
+      "gamerule.nomine": "Nomine",
+      "subtitles.guardiansgalaxy": "",
+      "item.lotmod_forge.guardiansofthegalaxy": "Guardians of the galaxy",
+      "itemGroup.tabtechnology": "Technology",
+      "subtitles.guardiansofthegalaxy": "",
+      "item.lotmod_forge.guardiansofthegalaxy.desc": "avesome mix 1-2"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "lotmod_forge",
+    "modName": "Lotmod forge",
+    "version": "1.0.0",
+    "description": "lotmod",
+    "author": "petabajt",
+    "websiteURL": "https://github.com/Segreguj-com/lotmod-forge",
+    "license": "Creative Commons Attribution-NonCommercial 3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "mcreator_link"
+    ],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.lotmodforge",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100112313
+}

@@ -1,0 +1,20 @@
+{
+  "guardiansofthegalaxy": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "lotmod_forge:guardians-of-the-galaxy-awesome-mix-vol.-1-_-vol.-2-_galaxy-soundtrack_-_128-kbps_",
+        "stream": false
+      }
+    ]
+  },
+  "guardiansgalaxy": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "lotmod_forge:guardians-of-the-galaxy-awesome-mix-vol.-1-_-vol.-2-_galaxy-soundtrack_-_128-kbps_",
+        "stream": false
+      }
+    ]
+  }
+}

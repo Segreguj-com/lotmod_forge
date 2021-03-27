@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Creative Commons Attribution-NonCommercial 3.0"
+
+[[mods]]
+modId="lotmod_forge"
+version="1.0.0"
+displayName="Lotmod forge"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://github.com/Segreguj-com/lotmod-forge"
+authors="petabajt"
+description='''
+lotmod
+'''
+
+[[dependencies.lotmod_forge]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+[[dependencies.lotmod_forge]]
+    modId="mcreator_link"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+

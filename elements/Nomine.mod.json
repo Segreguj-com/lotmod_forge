@@ -1,0 +1,12 @@
+{
+  "_fv": 17,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Logic",
+    "displayName": "Nomine",
+    "description": "To pomoga nie kopac",
+    "category": "PLAYER",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 0
+  }
+}

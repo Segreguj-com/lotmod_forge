@@ -1,0 +1,19 @@
+{
+  "_fv": 17,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disk1",
+    "name": "Guardians of the galaxy",
+    "description": "avesome mix 1-2",
+    "creativeTab": {
+      "value": "CUSTOM:Technology"
+    },
+    "music": {
+      "value": "CUSTOM:guardiansgalaxy"
+    },
+    "specialInfo": [
+      "Guardians of the galaxy"
+    ],
+    "hasGlow": true
+  }
+}
